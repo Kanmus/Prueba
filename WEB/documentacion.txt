@@ -1,0 +1,18 @@
+<u> = subrayado
+<b> =  Negrilla
+<i> = Cursiva
+<br> = salto de renglon
+<p> = salto de parrafo
+<h#> = titulo y # de tamaño
+alt="" = etiqueta cuando no hay imagen
+<img src="fuente"> = codigo para colocar imagen
+<center> = centrar texto o imagen
+<hr> = linea abajo
+<alt="arnol wasdasdasd" width="300px" height =" 200px"> = etiqueta de imagen y dimenciones
+<blockquote></blockquote> = citar algo
+<div>
+
+<a target="_blank" href=""></a>= seleccionar algo para dar click y que pase a otra pestaña
+
+
+VIDEO EN HTML: http://www.ite.educacion.es/formacion/materiales/182/cd/cinco/insertar_un_vdeo.html

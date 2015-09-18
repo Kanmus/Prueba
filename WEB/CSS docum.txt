@@ -1,0 +1,3 @@
+- color : nombre{color: nombre del color;}
+- tipo de letra : {font-family:tipo de letra;}
+-  {text-decoration:underline;}
